@@ -1,5 +1,3 @@
-# OTP-BYPASS-and-SMS-BOT-V-3
-OTP BYPASS and SMS BOT V 3
 
 I will install the bot for a fee.
 
