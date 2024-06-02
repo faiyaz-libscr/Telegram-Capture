@@ -4,15 +4,15 @@ module.exports = {
     /**
      * Informations à propos du compte Twilio
      */
-    accountSid: 'ACf04eefb13c749e1243260baddb62f4e6',
-    authToken: 'b5edf24a022dc4ceb58016d10ac90f21',
-    callerid: '+13476717326',
+    accountSid: '',
+    authToken: '',
+    callerid: '+',
 
     /**
      * Informations à propos de l'API
      */
-    apipassword: 'baddb62f4e6',
-    serverurl: 'https://internal-buck-set.ngrok-free.app',
+    apipassword: '',
+    serverurl: '',
 
     /**
      * Informations à propos du webhook discord
